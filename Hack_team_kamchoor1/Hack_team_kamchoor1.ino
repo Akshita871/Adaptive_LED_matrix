@@ -13,11 +13,11 @@
 
 // ======================= Global Definitions =======================
 // Wi-Fi Credentials
-const char* ssid = "Kanak's GALAXY S24FE";
-const char* password = "112233445566";
+const char* ssid = "K****k's ****** S24FE";
+const char* password = "1***********";
 
 // OpenWeatherMap API
-const char* openWeatherMapApiKey = "0fe99458cc8e078c460decdae76b73a7";
+const char* openWeatherMapApiKey = "0fe******************dae76b73a";
 String weatherApiUrl = "http://api.openweathermap.org/data/2.5/weather?";
 
 // LED Matrix (MAX7219)
